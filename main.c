@@ -1,11 +1,4 @@
 
-/* CS 2211a 2020 */
-/* Assignment 03 */
-/* Alexander Hemming */
-/* 251033611 */
-/* ahemmin */
-/* 10/19/2020 */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
