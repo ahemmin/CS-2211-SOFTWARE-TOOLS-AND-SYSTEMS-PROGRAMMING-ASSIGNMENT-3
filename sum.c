@@ -1,11 +1,3 @@
-
-/* CS 2211a 2020 */
-/* Assignment 03 */
-/* Alexander Hemming */
-/* 251033611 */
-/* ahemmin */
-/* 10/19/2020 */
-
 #include<stdio.h>
 
 // The program takes in user input and adds them to the current total value if and only if they are odd.  It is capable of adding/summing all integer values apart from 1 which will reset the total of the sum and 0 that will exit the program.  Additionally the program is unable to handle negative values appropriately and also starts 2 due to modulo. //
